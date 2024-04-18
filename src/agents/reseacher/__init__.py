@@ -1,1 +1,1 @@
-
+from .researcher import Researcher
